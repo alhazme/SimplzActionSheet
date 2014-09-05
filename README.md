@@ -1,5 +1,5 @@
 #Simplz Action Sheet
-=================
+--------------------
 Customizable iOS 7 style UIActionSheet replacement. Compatible with iOS 7.
 
 ##Features
