@@ -13,7 +13,7 @@ By default, SimplzActionSheet like the iOS 7 UIActionSheet.
 ```
 .m
 ```
-self.simplzActionSheet = [[SimplzActionSheet alloc] initWithTitle:@"Choose Picture" delegate:self cancelButtonTitle:@"Cancel" destructiveButtonTitle:@"Emphasis" otherButtonTitlesArray:@[@"Gallery", @"Photo"]];
+self.simplzActionSheet = [[SimplzActionSheet alloc] initWithTitle:@"Choose Picture" delegate:self cancelButtonTitle:@"Cancel" destructiveButtonTitle:@"Delete" otherButtonTitlesArray:@[@"Gallery", @"Photo"]];
 [self.simplzActionSheet showInView:self.view];
 ```
 
